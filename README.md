@@ -1,1 +1,1 @@
-# Multimodal_LLM_Phishing_Benchmark
+# Multimodal_LLM_Phishing_Detection
