@@ -1,5 +1,12 @@
 # Multimodal Large Language Models for Phishing Webpage Detection and Identification: Code repository
 
+
+**NOTE**: We are cleaning up the project code to publish.<br>
+Thank you for your patience.<br>
+2024 Aug 13<br>
+
+----
+
 Ethical Statement: This work is done for research purposes; the phishing webpages and logos should not be used for any unethical or illegal purpose.
 
 ----
