@@ -1,9 +1,10 @@
 # Multimodal Large Language Models for Phishing Webpage Detection and Identification: Code repository
 
 
-**NOTE**: We are cleaning up the project code to publish.<br>
+**NOTE**: The Pre-processed Benign and Phishing webpage dataset is published.<be>
+This dataset includes the Text features from HTML and Screenshots.<br>
 Thank you for your patience.<br>
-2024 Aug 13<br>
+2024 Sep 18<br>
 
 ----
 
