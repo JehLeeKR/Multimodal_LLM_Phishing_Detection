@@ -2,7 +2,8 @@
 
 
 **NOTE**: The Pre-processed Benign and Phishing webpage dataset is published.<br>
-This dataset includes the Text features from HTML and Screenshots.<br>
+This dataset includes the Text features from HTML and Screenshots.<br><br>
+
 Thank you for your patience.<br>
 2024 Sep 18<br>
 
@@ -22,7 +23,8 @@ Lee, J., Lim, P., Hooi, B., Divakaran, D. M. (2024, September). Multimodal Large
 ## Dataset
 
 ### Webpage dataset
-We are preparing to publish the dataset.
+Benign webpage samples: ```./data/benign/```
+Phishing webpage samples: ```./data/phishing/```
 
 ### APW (Adversarial Phishing Webpages) dataset
 https://github.com/hihey54/www24_threatAdvPhish
