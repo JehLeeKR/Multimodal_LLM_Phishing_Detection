@@ -23,7 +23,7 @@ Lee, J., Lim, P., Hooi, B., Divakaran, D. M. (2024, September). Multimodal Large
 ## Dataset
 
 ### Webpage dataset
-Benign webpage samples: ```./data/benign/```
+Benign webpage samples: ```./data/benign/``` <br>
 Phishing webpage samples: ```./data/phishing/```
 
 ### APW (Adversarial Phishing Webpages) dataset
