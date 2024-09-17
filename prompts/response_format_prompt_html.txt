@@ -1,0 +1,4 @@
+Return your response in the following format, replace everythingin <> with your answer:
+1. Brand: <response>
+2. Confidence_Score: <How confident are you when identifying the brand on scale of 0.00 to 10.00 (in 2 decimal places), 10.00 being absolutely confident, 0.00 being not confident>
+3. Supporting_Evidence: <response, keep it within 300 words>

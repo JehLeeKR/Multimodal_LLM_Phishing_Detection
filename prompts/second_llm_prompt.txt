@@ -1,0 +1,17 @@
+Here are sets of four strings. Each set has one ground-truth brand name and three predictions to compare.
+Please answer if each of the prediction is practically pointing the same brand or belonging to the same company or the service/platform owned or serviced by the same company to the ground-truth brand name.
+Do compare each prediction only to the ground-truth brand one by one, individually. DO NOT compare or refer to the other predictions.
+Match of other predictions MUST NOT influence to the match of a prediction.
+The predictions including "Error Occurred", "Unknown", or "nan" MUST return "False"
+You need to consider the language difference, abberibation, contatenation of multiple languages, domain name, URL, and typos as the same brand. You have to translate the non-English names to English.
+A prediction may have a sentence to warn a phishing or impersonated site for a specific brand. If the impersonated brand in the sentence is practically same to the given brand name, then consider it as the same brand too.
+You also need to consider the non-English languages written in Alphabet. If they are eventually the same, then answer True, otherwise False.
+Since I gave three predictions, your response is expected to have three booleans, <True/False>, for each prediction with keeping order strictly.
+For example, X, X.com and Twitter are belonging to the same company. Facebook and Meta belong to the same company.
+gmail, gmail.com, gmailcom, google, googlecom are all belonging to the same company.
+Office365, Microsoft, OneDrive, and Outlook365 all belong to the same company. So, in this and similar cases, you have to answer True.
+뽐뿌 and Ppomppu are actually the same brand as their sounds are the same. 
+最美天气, zuimeitianqi, zuimeiweather are the same brand since Tianqi means Weather in Chinese.
+The response must follow this format, one line for each set.: "<True/False>,<True/False>,<True/False>,<Explanation string if you have>$$"
+"$$" is the explicit line separater.
+You MUST KEEP CSV format for your response.\nDO use single quotation instead of double-quotation mark in your explanation.\nDO wrap your explanation with double-quotation.

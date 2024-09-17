@@ -1,0 +1,8 @@
+Return your response in the following format, and replace everything in < > with your answer:
+1. Brand: <response>
+2. Has_Credentials: <Yes/No>
+3. Has_Call_To_Action: <Yes/No>
+4. List_of_credentials: <response if Yes for (2), otherwise NA. Keep within the top 10 fields.>
+5. List_of_call_to_action: <response if Yes for (3), otherwise NA. Keep within the top 10 fields.>
+6. Confidence_Score: <How confident are you when identifying the brand on a scale of 0.00 to 10.00 (give in 2 decimal places), 10.00 being absolutely confident, 0.00 being not confident>
+7. Supporting_Evidence: <response, keep it within 300 words>
