@@ -1,5 +1,11 @@
 # Multimodal Large Language Models for Phishing Webpage Detection and Identification: Code repository
 
+LLM query scripts for GPT, Gemini, and Claude are updated.
+Note that these scripts are not exactly the same as the code in our experiments since we used Jupyter Notebook and Batch API queries to save the cost.
+Prompt message building, image crop and encoding, image and text attachment, API, and response parsing are as is.
+
+2025 Feb 27<br>
+---
 
 **NOTE**: The Pre-processed Benign and Phishing webpage dataset is published.<br>
 This dataset includes the Text features from HTML and Screenshots.<br><br>
